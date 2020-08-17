@@ -4,3 +4,14 @@
 
 ### Check me out at www.myresume.tech & my *[Auto-Generated Github Resume](https://resume.github.io/?H3RSKO)*
 
+<!--START_SECTION:activity-->
+
+
+
+
+
+
+
+
+
+<!--END_SECTION:activity-->
