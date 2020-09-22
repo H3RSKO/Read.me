@@ -1,10 +1,15 @@
 # Read.me
 
-[![Yosef's github stats](https://github-readme-stats.vercel.app/api?username=H3RSKO&show_icons=true&theme=radical)](https://github.com/H3RSKO/hackathon-starter/)
-
 ### Check me out at www.myresume.tech & my *[Auto-Generated Github Resume](https://resume.github.io/?H3RSKO)*
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=H3RSKO&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Yosef's github stats](https://github-readme-stats.vercel.app/api?username=H3RSKO&show_icons=true&theme=radical)](https://github.com/H3RSKO/hackathon-starter/)
+
+
+
 <!--START_SECTION:activity-->
+
 
 
 
