@@ -1,21 +1,19 @@
-# Read.me
-
-### Check me out at www.myresume.tech & my *[Auto-Generated Github Resume](https://resume.github.io/?H3RSKO)*
-
-[![Yosef's github stats](https://github-readme-stats.vercel.app/api?username=H3RSKO&show_icons=true&theme=radical)](https://github.com/H3RSKO/hackathon-starter/)
-
 <h1 align="center">Hi 👋, I'm Yosef Herskovitz</h1>
 <h3 align="center">A passionate software developer from NY.</h3>
 
+[![Yosef's github stats](https://github-readme-stats.vercel.app/api?username=H3RSKO&show_icons=true&theme=radical)](https://github.com/H3RSKO/hackathon-starter/)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h3rsko&label=Profile%20views&color=0e75b6&style=flat" alt="h3rsko" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=h3rsko" alt="h3rsko" /></a> </p>
 
 - 🔭 I’m currently working on [Misanthropy.space](https://misanthropy.space)
 
-- 👨‍💻 All of my projects are available at [https://myresume.tech](https://myresume.tech)
+- 👨‍💻 See some of what i've been up to at [https://myresume.tech](https://myresume.tech)
 
-- 💬 Ask me about **GitGud, a git CLI project I worked on.**
+- ⚡️ See my auto-generated github resume [here](https://resume.github.io/?H3RSKO)!
+
+- 💬 Ask me about [**GitGud, a git CLI project I worked on.**](https://github.com/GitGud-org/GitGud)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -32,7 +30,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h3rsko&layout=compact" alt="h3rsko" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=h3rsko&show_icons=true" alt="h3rsko" /></p>
 
 
 
